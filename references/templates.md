@@ -63,7 +63,7 @@ Add: lead magnet (one line), lead getter to recruit, tracking sheet columns.
 | Downsell | | | | | |
 | Continuity | | | | | |
 
-Then: first-30-day gross profit per new customer vs. acquisition cost; payback in days; every assumption labeled; arithmetic run.
+Then: first-30-day gross profit per new customer vs. acquisition cost (acquisition break-even); payback in days; if claiming self-funding growth, show that separately (see `SKILL.md` money-model rules, not the same as break-even); every assumption labeled; arithmetic run.
 
 ## Scale diagnosis
 ```
@@ -93,7 +93,7 @@ STACK:
   3. Shelf-ready signage at the case → obstacle: "shoppers won't connect the taste to the product"
   4. Same-week sales recap → obstacle: "I won't know if it worked"
 BONUS: Repeat day booked for the following month if the recap shows lift [needs Seth].
-PRICE: $0 to the store (Moozy pays for the sampling).
+PRICE: $0 to the store, pending Seth's approval of the sampling spend.
 GUARANTEE: none promised; recap shared either way.
 SCARCITY (real only): [X] slots per month per area, from the actual staffing calendar.
 NEEDS SIGN-OFF: Seth (spend, any store incentive).
