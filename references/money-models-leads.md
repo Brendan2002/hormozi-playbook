@@ -1,5 +1,7 @@
 # Money Models and Leads reference
 
+**UNVERIFIED:** written from memory, not checked against the books. Treat as secondary; verify a tactic against the original before presenting it as confirmed Hormozi guidance.
+
 Paraphrased menus from Hormozi's Money Models and Leads. Use them to make Build, Money model and Leads outputs concrete. Pick the few that fit; don't list them all back.
 
 ## Money model: pick one from each stage
