@@ -1,6 +1,6 @@
 # Scaling Roadmap reference
 
-Load this only in Scale diagnosis mode. Paraphrase; don't quote.
+Load this for Scale diagnosis mode and for stage lookups ("what's the Stage N constraint?", a Quick take). Paraphrase; don't quote.
 
 Hormozi's $100M Scaling Roadmap places a business on a 0-9 ladder, mostly by headcount. Each stage has one main constraint, and you graduate by fixing it.
 

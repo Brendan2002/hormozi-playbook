@@ -19,6 +19,16 @@ NEEDS SIGN-OFF: [Seth / none]
 ```
 Use "not offered", "unknown" or "pending approval" for unsupported components; a draft must not imply it is ready to publish when facts or approvals are missing. Then 2-3 lines: which value-equation lever each part moves.
 
+## Build: lead magnet
+```
+NAME: [number] + [outcome] + [time frame]  (or "how to do X without Y")
+TYPE: one step of a multi-step process, or a tool/template (verified types only)
+PROBLEM SOLVED (one narrow problem): ...
+NEXT PROBLEM IT REVEALS (points to the paid offer): ...
+CTA: ...
+NUMBERS: no subscriber or conversion figures unless supplied
+```
+
 ## Audit
 ```
 SCORE: __/100, or subtotal/available max (e.g. 42/60) when items are unknown; "insufficient evidence to score" if all ten are unknown
