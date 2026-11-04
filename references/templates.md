@@ -31,6 +31,8 @@ TOP 3 FIXES (ranked qualitatively by impact vs. effort, lever named):
 REWRITTEN OFFER: [Build block]
 ```
 
+Partial evidence: score only the categories the pasted material supports, show subtotal over available max (e.g. 24/60 with four unknown), and list what would unlock each unknown.
+
 ### Scoring anchors (local heuristic, not an official Hormozi scorecard)
 | # | Item | 3 | 6 | 9 |
 |---|---|---|---|---|
