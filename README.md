@@ -10,6 +10,9 @@ A Claude skill that applies Alex Hormozi's frameworks ($100M Offers, Leads, Mone
   - `scaling-roadmap.md` — all stages 0-9 verified from Acquisition.com guides
   - `ventures.md` — facts about each venture (fill the TODOs)
 - `tests/prompts.md` — sample requests and expected behavior; run after edits.
+- `docs/AUDIT.md` — the 2026-11-04 source audit of the skill against the downloaded Acquisition.com files.
+
+Source PDFs and archives are not stored here (see `.gitignore`). The roadmap guides come from `acquisition.com/hubfs/0-100M Scaling Course PDFs (v6)/` as `Your_ACQ_100MScalingRoadmap-Stage0N_.pdf` (Stage 0 is `...-Stage0_.pdf`).
 
 ## Open items
 - Fill the TODO fields in `ventures.md`.
