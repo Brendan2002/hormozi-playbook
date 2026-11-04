@@ -1,0 +1,17 @@
+# hormozi-playbook
+
+A Claude skill that applies Alex Hormozi's frameworks ($100M Offers, Leads, Money Models, Scaling Roadmap) to Brendan's ventures, Moozy first.
+
+## Layout
+- `SKILL.md` — the skill: modes, frameworks, scorecard, guardrails. Keep it short.
+- `references/` — loaded on demand:
+  - `templates.md` — output shapes per mode, plus a worked Moozy example
+  - `money-models-leads.md` — attraction/upsell/downsell/continuity menus, lead magnets, rule of 100
+  - `scaling-roadmap.md` — Stages 6-8 verified, Stages 0-5 unverified
+  - `ventures.md` — facts about each venture (fill the TODOs)
+- `tests/prompts.md` — sample requests and expected behavior; run after edits.
+
+## Open items
+- Verify Stages 0-5 from the Acquisition.com personalized guides and update `scaling-roadmap.md`.
+- Fill the TODO fields in `ventures.md`.
+- Keep sensitive costs and pay data out of this repo.
