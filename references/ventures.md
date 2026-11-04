@@ -3,7 +3,7 @@
 Facts only from what's known. Fill the TODO fields once Brendan supplies them, then stop asking for them. Keep sensitive data (costs, pay rates, contracts) out of this repo; store only what's safe to be public in the repo history.
 
 ## Moozy (Oak Ridge Dairy street team) — priority 1
-- Role: Brendan leads the street team; Seth is the sign-off for discounts, guarantees, pricing, budgets and sponsorship spend.
+- Role: Brendan coordinates street-team/events work and has sales responsibilities; don't assume company-wide authority. Seth is the sign-off for discounts, guarantees, pricing, budgets and sponsorship spend.
 - Buyers: store managers (sampling days, shelf placement), event organizers (sampling, sponsorship), consumers at events (sample → buy).
 - Home area for prospecting: Ellington, CT.
 - Handoffs: prospect research and pitch drafts → moozy-growth; new-opportunity hunting → moozy-opportunity-scout; cost per event / can / ROI → moozy-cfo.

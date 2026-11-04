@@ -12,24 +12,38 @@ STACK (each item = obstacle it solves → value):
   2. ...
 BONUSES (each solves a named obstacle):
   - ...
-PRICE: $__   VALUE: $__   RATIO: __x
-GUARANTEE: ... (type; confirm it can be honored)
-SCARCITY / URGENCY (real only): ...
+PRICE: $__ or "pending approval"   VALUE/RATIO: only if inputs are supported, else qualitative
+GUARANTEE: ... (type; confirm it can be honored) or "not offered"
+SCARCITY / URGENCY (real only): ... or "not offered"
 NEEDS SIGN-OFF: [Seth / none]
 ```
-Then 2-3 lines: which value-equation lever each part moves.
+Use "not offered", "unknown" or "pending approval" for unsupported components; a draft must not imply it is ready to publish when facts or approvals are missing. Then 2-3 lines: which value-equation lever each part moves.
 
 ## Audit
 ```
-SCORE: __/100
+SCORE: __/100, or subtotal/available max (e.g. 42/60) when items are unknown; "insufficient evidence to score" if all ten are unknown
 1 Market __ · 2 Dream outcome __ · 3 Likelihood __ · 4 Time delay __ · 5 Effort __
 6 Stack __ · 7 Enhancers __ · 8 Name __ · 9 Price vs. value __ · 10 Lead path __
-(one line of evidence each)
+(one line of evidence each; higher = stronger, so for delay and effort 10 = faster / less burden; mark unsupported items "unknown")
 
-TOP 3 FIXES (impact ÷ effort, lever named):
+TOP 3 FIXES (ranked qualitatively by impact vs. effort, lever named):
 1. ...
 REWRITTEN OFFER: [Build block]
 ```
+
+### Scoring anchors (local heuristic, not an official Hormozi scorecard)
+| # | Item | 3 | 6 | 9 |
+|---|---|---|---|---|
+| 1 | Market | fails 2+ starving-crowd checks | passes 2-3 | passes all four |
+| 2 | Dream outcome | vague or about the product | clear but generic | specific, in buyer's words |
+| 3 | Likelihood | no proof | one named result or sample | several specific, verifiable results |
+| 4 | Time delay | months or unstated | weeks | quick first win stated |
+| 5 | Effort | buyer does most of the work | shared | done-for-you or near it |
+| 6 | Stack | features, no obstacles | some tied to obstacles | every item solves a named obstacle |
+| 7 | Enhancers | none | one real one | real scarcity/urgency, bonuses, guarantee |
+| 8 | Name | generic | clear | covers MAGIC elements |
+| 9 | Price vs. value | unstated | price stated | credible value stack vs. price |
+| 10 | Lead path | none | one channel | daily number plus a second source |
 
 ## Leads: 30-day plan
 | Week | Channel (Core Four) | Daily number | Action | Metric | Decision at week end |

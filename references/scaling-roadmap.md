@@ -25,9 +25,12 @@ Only the stage names and the official Stage 0 goal are confirmed (Acquisition.co
 
 To verify: Brendan downloads the personalized guide for each stage from Acquisition.com and pastes or uploads it, then this file gets updated. Stage 9 (Capitalize): name only.
 
+## Source boundary (checked 2026-11-04)
+The Acquisition.com Business Scaling Checklist is a one-page comparison of franchised vs. company-owned physical locations (opening cost and profit, effort, location count for the owner's goal, promotional vs. product/leadership strengths). It does not document stages 0-5 or 9; don't use it to fill their headcounts, constraints or graduation criteria.
+
 ## How to apply it
-- Place the business on the ladder by headcount and its main constraint before recommending anything. Advise for its current stage, not a bigger one.
-- Moozy: Brendan leads the street team, not the company. Apply stage advice to his own scope (his leads, event staff, sampling budget, data) and frame company-wide items as recommendations to Seth.
+- Check headcount and the main constraint before proposing a stage. If either is missing or they conflict, label placement provisional or unknown and ask. Do not infer company stage from street-team size. Advise for the current situation, not a bigger business.
+- Moozy: Brendan coordinates street-team/events work and has sales responsibilities; do not assume company-wide decision authority. Apply stage advice to his own scope (his leads, event staff, sampling budget, data) and frame company-wide items as recommendations to Seth.
 - His side ventures are early-stage (likely Stages 0-2); don't push Stage 6-8 systems onto them. Until Stages 0-5 are verified, say so when diagnosing them.
 - Most portable items for his street-team scope: lead scoring and a second lead source, follow-up checklists, rewarding show-ups, and grouping store partners by start date to spot drop-off.
 - Running theme: better beats more. Before adding a channel, hire, product or tool, check whether improving the current one wins.
