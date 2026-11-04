@@ -8,7 +8,8 @@ Facts only from what's known. Fill the TODO fields once Brendan supplies them, t
 - Home area for prospecting: Ellington, CT.
 - Handoffs: prospect research and pitch drafts → moozy-growth; new-opportunity hunting → moozy-opportunity-scout; cost per event / can / ROI → moozy-cfo.
 - Constraints: no health or nutrition claims beyond the label.
-- TODO: headcount on the street team; typical event cost range; what a store partnership gives Moozy; current lead sources.
+- Street-team headcount: Brendan gave no figure (2026-11-04); treat as unknown, do not infer stage from it, and stop asking unless a stage placement needs it.
+- TODO: typical event cost range; what a store partnership gives Moozy; current lead sources.
 
 ## DriveOrganized (Etsy)
 - 3D-printed car accessories and custom prints.
@@ -18,7 +19,8 @@ Facts only from what's known. Fill the TODO fields once Brendan supplies them, t
 ## Close & Open (closeandopen.com)
 - Daily market report.
 - Offers = free lead magnet, newsletter growth, any paid tier.
-- TODO: subscriber count, current traffic source, whether any paid tier exists.
+- Paid tier: none exists yet (Brendan, 2026-11-04); any paid-tier pricing is hypothetical.
+- TODO: subscriber count, current traffic source.
 
 ## Harvest blanket
 - Pre-launch concept.
