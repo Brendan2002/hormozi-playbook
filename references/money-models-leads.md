@@ -4,7 +4,7 @@ Use these to make Build, Money model and Leads outputs concrete. Pick the few th
 
 **Verification status.**
 - **Money model section: checked 2026-11-04** against the episode notes and transcripts of Hormozi's $100M Money Models audiobook readings, Parts 3-7 (The Game with Alex Hormozi, Eps 940-944, Aug 2025, hosted on pod.wave.co). The text is Hormozi's own reading, but the page, its summaries and the transcript are third-party hosted and AI-generated, so treat this as secondary to the book. Part 8 (making your money model) was not checked.
-- **Leads section: still UNVERIFIED**, written from memory. Verify a tactic against the original before presenting it as confirmed Hormozi guidance.
+- **Leads section: partly checked** (Rule of 100 and lead magnets); other items are marked as from memory. Verify those against the original before presenting them as confirmed Hormozi guidance.
 
 ## Money model: pick one from each stage
 **Attraction offer** (gets a stranger in, ideally at or near break-even; the goal is cash up front and an easy yes that sets up the upsell). Five types:
@@ -34,19 +34,19 @@ Use these to make Build, Money model and Leads outputs concrete. Pick the few th
 
 **Guardrails.** Moozy discounts, guarantees and giveaways need Seth's sign-off, and giveaways need legal review. Win-your-money-back and trial-with-penalty terms must be stated clearly up front.
 
-## Leads (UNVERIFIED, from memory; Rule of 100 note is from the Stage 2 guide)
-**Rule of 100.** The Acquisition.com Stage 2 guide describes it as spending 100 minutes a day on marketing (Stage01 guide p. 25); other Hormozi material frames it as 100 outreach actions a day, so say which version you mean. Either way, commit to a daily number for long enough to learn what works, then improve in order: more volume, then better, then new channels.
+## Leads
+**Verification status.** Partly checked 2026-11-04 against third-party transcripts of Hormozi's own podcast episodes (podscripts.co, secondary): Ep 796 (Rule of 100) and Ep 881 (lead magnets). Items marked *(from memory)* are not checked.
 
-**Lead magnet types** (one narrow problem, solved for free, pointing to the paid offer).
-- Reveal a problem they didn't know they had.
-- Give one step of a multi-step process.
-- A sample (fits Moozy literally).
-- A done-for-you slice of the work.
-- A diagnostic or scorecard.
-- A short trial.
+**Rule of 100** (Ep 796). A daily bundle, not one number: reach out to 100 people, make a post you spent 100 minutes on, spend $100 or more on ads, and spend at least 100 minutes making and improving ads and researching them, consistently and getting better over time. The Acquisition.com Stage 2 guide compresses this to 100 minutes a day of marketing (Stage01 guide p. 25). Say which version you mean and size it to the venture: for a no-ad-budget venture, drop the ad lines. Then improve in order: more volume, then better, then new channels *(order from memory)*.
 
-**Content: hook, retain, reward.** Hook in the first line, hold attention with a reason to keep reading, pay off with a useful takeaway.
+**Lead magnet** (Ep 881). A mini offer that is a complete solution to one narrow problem, typically free or low cost, that reveals the next problem your core offer solves. Its job is lead capture: it converts a higher share of the same traffic (the episode claims roughly three to five times more leads than "book a call" or "get a quote" alone). It works best when the audience is cold or unfamiliar.
+- Types confirmed in the episode: one step of a multi-step process (good for complex products or services); software or tools (spreadsheets that calculate, assessments, templates, software).
+- Types from memory, not confirmed: reveal a problem they didn't know they had; a sample; a done-for-you slice; a short trial.
+- Naming formula in the episode: number + outcome + time frame (for example, three emails that turn cold leads into clients in 24 hours), or "how to do X without Y".
+- Call to action: be clear, not clever; give one exact next action; give a reason to act now (real scarcity or urgency only).
 
-**Lead getters.** Referrals, employees, agencies, affiliates/partners. For Moozy, store managers and event organizers who refer others count as partners.
+**Core Four and lead getters** (Ep 633 mentions both; detail from memory). Core Four: warm outreach, posting content, cold outreach, paid ads. Lead getters: referrals, employees, agencies, affiliates/partners; a customer can do the Core Four to bring you more customers.
 
-**30-day plan skeleton.** Week 1 set the daily number and tracking sheet; week 2 run the best-fit Core Four channel; week 3 review results and cut the weakest; week 4 double the strongest or fix its message. See templates.md for the table.
+**Content: hook, retain, reward** *(from memory)*. Hook in the first line, hold attention with a reason to keep going, pay off with a useful takeaway.
+
+**30-day plan skeleton** *(local template, not Hormozi's)*. Week 1 set the daily number and tracking sheet; week 2 run the best-fit Core Four channel; week 3 review results and cut the weakest; week 4 double the strongest or fix its message. See templates.md for the table.
