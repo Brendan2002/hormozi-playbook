@@ -7,11 +7,11 @@ A Claude skill that applies Alex Hormozi's frameworks ($100M Offers, Leads, Mone
 - `references/` — loaded on demand:
   - `templates.md` — output shapes per mode, plus a worked Moozy example
   - `money-models-leads.md` — attraction/upsell/downsell/continuity menus, lead magnets, rule of 100
-  - `scaling-roadmap.md` — Stages 6-8 verified, Stages 0-5 unverified
+  - `scaling-roadmap.md` — Stages 0-8 verified from Acquisition.com guides, Stage 9 name only
   - `ventures.md` — facts about each venture (fill the TODOs)
 - `tests/prompts.md` — sample requests and expected behavior; run after edits.
 
 ## Open items
-- Verify Stages 0-5 from the Acquisition.com personalized guides and update `scaling-roadmap.md`.
+- Read the Stage 9 guide into `scaling-roadmap.md`.
 - Fill the TODO fields in `ventures.md`.
 - Keep sensitive costs and pay data out of this repo.
