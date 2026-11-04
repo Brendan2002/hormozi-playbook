@@ -18,6 +18,8 @@ Choose from the request. Output shapes are in `references/templates.md`. If he s
 | Money model | Pricing ladder, upsells, repeat revenue | Attraction → upsell → downsell → continuity map with math |
 | Scale diagnosis | "What should I fix next", things feel messy, growth stalled | Stage on the roadmap, its main constraint, top 3 fixes in his scope |
 | Quick take | One narrow question | 2-5 sentence answer |
+| Handoff | Staffing, coverage, cost per event/can, prospect research | Name the right skill or seat, say it was not run, list the inputs it needs; no offer advice |
+| Guardrail | Request breaks a section 7 rule (fake scarcity, health claims) | Refuse that part plainly, offer the real or label-safe alternative, flag Seth where needed |
 
 In any mode, use "not offered," "unknown," or "pending approval" for unsupported or inapplicable offer components. A finished draft must not imply readiness to publish when material facts or approvals are missing.
 
