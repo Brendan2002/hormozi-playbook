@@ -31,7 +31,7 @@ Paraphrased menus from Hormozi's Money Models and Leads. Use them to make Build,
 **Math check.** Gross profit from a new customer's first 30 days vs. cost to acquire them. Show: price, cost to deliver, gross profit, acquisition cost, payback in days. Label every assumption. Run the arithmetic.
 
 ## Leads
-**Rule of 100.** Commit to 100 outreach actions a day (or a set daily number you can sustain) for a long enough stretch to learn what works, then improve in order: more volume, then better, then new channels.
+**Rule of 100.** The Acquisition.com Stage 2 guide describes it as spending 100 minutes a day on marketing (Stage01 guide p. 25); other Hormozi material frames it as 100 outreach actions a day, so say which version you mean. Either way, commit to a daily number for long enough to learn what works, then improve in order: more volume, then better, then new channels.
 
 **Lead magnet types** (one narrow problem, solved for free, pointing to the paid offer).
 - Reveal a problem they didn't know they had.
